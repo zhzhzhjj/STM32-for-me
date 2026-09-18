@@ -5,7 +5,7 @@
 #include "Key.h"
 
 uint8_t KeyNum;
-int8_t Speed;
+int8_t Speed = 60;
 
 int main(void)
 {
